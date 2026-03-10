@@ -49,9 +49,9 @@
 
 ## 🧠 Currently Learning
 
-- 📌 Data Structures & Algorithms  
-- 📌 Backend Development  
-- 📌 Machine Learning Fundamentals  
+-  Data Structures & Algorithms  
+-  Backend Development  
+-  Machine Learning Fundamentals  
 
 ---
 
@@ -65,19 +65,19 @@
 
 ## 📊 GitHub Stats
 
-![Shree's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+![Shree's GitHub stats](https://github-readme-stats.vercel.app/api?username=shree-sai-lakshmi03&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=shree-sai-lakshmi03&theme=tokyonight)
 
 ---
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shree-sai-lakshmi03&theme=tokyo-night)
 
 ---
 
