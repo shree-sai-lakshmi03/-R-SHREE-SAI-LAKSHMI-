@@ -7,6 +7,8 @@
 🎓 Indian Institute of Technology, Madras
 💻 Aspiring Software Development Engineer  
 🤖 Interested in AI, Machine Learning & Problem Solving  
+🎯Research; Human-AI Frontier: How far can AI go before its too much?
+
 
 ---
 
